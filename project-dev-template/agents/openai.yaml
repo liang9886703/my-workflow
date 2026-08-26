@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Dev Template"
+  short_description: "为代码仓库构建可维护、分层且可复用的提示词工程体系"
+  default_prompt: "使用 $project-dev-template 为当前代码仓库设计或维护分层提示词工程结构。"
